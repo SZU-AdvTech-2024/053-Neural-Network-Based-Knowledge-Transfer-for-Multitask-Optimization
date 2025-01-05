@@ -1,0 +1,11 @@
+@article{REPO053,
+    author = "Xue, Zhao-Feng and Wang, Zi-Jia and Zhan, Zhi-Hui and Kwong, Sam and Zhang, Jun",
+    doi = "10.1109/TCYB.2024.3469371",
+    journal = "IEEE Transactions on Cybernetics",
+    keywords = "Artificial neural networks;Optimization;Training;Reservoirs;Prediction algorithms;Knowledge transfer;Predictive models;Particle swarm optimization;Navigation;Multitasking;Evolutionary computation (EC);evolutionary multitask optimization (EMTO);knowledge transfer (KT);neural network (NN)",
+    number = "12",
+    pages = "7541-7554",
+    title = "{Neural Network-Based Knowledge Transfer for Multitask Optimization}",
+    volume = "54",
+    year = "2024"
+}
